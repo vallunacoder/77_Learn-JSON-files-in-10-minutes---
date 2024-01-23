@@ -1,0 +1,2 @@
+# 77_Learn JSON files in 10 minutes! 📄
+ "JSON files are like the well-behaved kids at the data playground. They're simple, organized, and everyone understands them. It's like giving your data a neat lunchbox – just open it up, and there's your info! JSON speaks the language of key-value pairs, making it easy for computers to chat without any playground drama. So, when you want your data to play nice and be universally loved, bring JSON to the table. It's the cool kid in the data school! 🎒📄"
